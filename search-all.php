@@ -52,7 +52,7 @@
             echo "<table>";
             }
             else{
-                echo "<h1> There are no results for $fName $lName <h1>";
+                echo "<h1> There are no results for $fName $lName </h1>";
             }
             
 

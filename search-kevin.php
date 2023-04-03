@@ -58,14 +58,14 @@
                     echo "<table>";
                 }
                 else{
-                    echo "<h1>There are no movies with Kevin Bacon and ".$fName." ".$lName. "<h1>";
+                    echo "<h1>There are no movies with Kevin Bacon and ".$fName." ".$lName."</h1>";
                 }
                 
 
             } catch (Exception $e) {
                 
                 return false;
-            }
+            }  
         }
 
 
