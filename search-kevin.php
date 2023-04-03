@@ -58,7 +58,7 @@
                     echo "<table>";
                 }
                 else{
-                    echo "<h1>There are no movies with Kevin Bacon and ".$fName." ".$lName;
+                    echo "<h1>There are no movies with Kevin Bacon and ".$fName." ".$lName. "<h1>";
                 }
                 
 
